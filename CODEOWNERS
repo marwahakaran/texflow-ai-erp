@@ -1,0 +1,6 @@
+# Code owners
+
+# Specify code owners who should be requested for review
+/backend/ @marwahakaran
+/frontend/ @marwahakaran
+/docs/ @marwahakaran

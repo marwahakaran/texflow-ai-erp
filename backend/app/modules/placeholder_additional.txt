@@ -1,0 +1,5 @@
+# Placeholder modules (additional)
+
+backend/app/modules/notification_service/__init__.py
+backend/app/modules/workflow_engine/__init__.py
+backend/app/modules/audit_compliance/__init__.py
