@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api import auth, users
+
 from app.api import auth_v2, users_v2, roles_permissions, organization
 from app.db import base, session
 from app.core.config import settings
